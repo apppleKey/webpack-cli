@@ -1,0 +1,28 @@
+/*! ----wendzer--- */
+.bgc {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+
+.bgc1 {
+  width: 100%;
+  height: 300px;
+  background-color: #176262;
+}
+
+body {
+  background-color: rgb(82, 163, 75);
+}
+
+#img {
+  width: 100px;
+  height: 100px;
+  background: url(/dist/img/e51ef6.manhua.png);
+  -webkit-transform: all 1s;
+  transform: all 1s;
+}
+
+#img:hover {
+  height: 4px;
+}
